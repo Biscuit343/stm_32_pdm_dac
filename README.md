@@ -34,4 +34,4 @@ Despite ways to fix the underlying issue, I don't have much faith that the micro
 7. CAP CER 0.03UF 1KV Z5V RADIAL (https://www.digikey.com/en/products/detail/nte-electronics-inc/90330/11652214)
 8. Carbon Film Resistor 220 Ohm 1/4 Watt 5% (https://www.jameco.com/z/CF1-4W221JRC-Jameco-Valuepro-Carbon-Film-Resistor-220-Ohm-1-4-Watt-5-_690700.html)
 
-Last three materials are used for an active 2nd-order low pass filter with a gain factor of 2 and a cut-off voltage of 24,000 Hz. For volume control, a MOSFET and a potentiometer can be used to feed the desired voltage into the supply voltage pin in the op-amp.
+Last three materials are used for an active 2nd-order low pass filter with a gain factor of 2 and a cut-off frequency of 24,000 Hz. For volume control, a MOSFET and a potentiometer can be used to feed the desired voltage into the supply voltage pin in the op-amp.
